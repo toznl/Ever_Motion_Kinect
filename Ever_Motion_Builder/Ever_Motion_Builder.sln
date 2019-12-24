@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ever_Motion_Builder", "Ever_Motion_Builder\Ever_Motion_Builder.csproj", "{EFFB25EC-5F02-4863-A81F-83E65B3BF81A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFFB25EC-5F02-4863-A81F-83E65B3BF81A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFFB25EC-5F02-4863-A81F-83E65B3BF81A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFFB25EC-5F02-4863-A81F-83E65B3BF81A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFFB25EC-5F02-4863-A81F-83E65B3BF81A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9E498DB-DD34-4432-AE35-235098C1234D}
+	EndGlobalSection
+EndGlobal

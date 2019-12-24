@@ -1,0 +1,11 @@
+D:\01. EveR연구실\2019 겨울\Ever_Motion_Kinect\Ever_Motion_Builder\Ever_Motion_Builder\bin\Debug\netcoreapp3.1\Ever_Motion_Builder.exe
+D:\01. EveR연구실\2019 겨울\Ever_Motion_Kinect\Ever_Motion_Builder\Ever_Motion_Builder\bin\Debug\netcoreapp3.1\Ever_Motion_Builder.deps.json
+D:\01. EveR연구실\2019 겨울\Ever_Motion_Kinect\Ever_Motion_Builder\Ever_Motion_Builder\bin\Debug\netcoreapp3.1\Ever_Motion_Builder.runtimeconfig.json
+D:\01. EveR연구실\2019 겨울\Ever_Motion_Kinect\Ever_Motion_Builder\Ever_Motion_Builder\bin\Debug\netcoreapp3.1\Ever_Motion_Builder.runtimeconfig.dev.json
+D:\01. EveR연구실\2019 겨울\Ever_Motion_Kinect\Ever_Motion_Builder\Ever_Motion_Builder\bin\Debug\netcoreapp3.1\Ever_Motion_Builder.dll
+D:\01. EveR연구실\2019 겨울\Ever_Motion_Kinect\Ever_Motion_Builder\Ever_Motion_Builder\bin\Debug\netcoreapp3.1\Ever_Motion_Builder.pdb
+D:\01. EveR연구실\2019 겨울\Ever_Motion_Kinect\Ever_Motion_Builder\Ever_Motion_Builder\obj\Debug\netcoreapp3.1\Ever_Motion_Builder.csprojAssemblyReference.cache
+D:\01. EveR연구실\2019 겨울\Ever_Motion_Kinect\Ever_Motion_Builder\Ever_Motion_Builder\obj\Debug\netcoreapp3.1\Ever_Motion_Builder.AssemblyInfoInputs.cache
+D:\01. EveR연구실\2019 겨울\Ever_Motion_Kinect\Ever_Motion_Builder\Ever_Motion_Builder\obj\Debug\netcoreapp3.1\Ever_Motion_Builder.AssemblyInfo.cs
+D:\01. EveR연구실\2019 겨울\Ever_Motion_Kinect\Ever_Motion_Builder\Ever_Motion_Builder\obj\Debug\netcoreapp3.1\Ever_Motion_Builder.dll
+D:\01. EveR연구실\2019 겨울\Ever_Motion_Kinect\Ever_Motion_Builder\Ever_Motion_Builder\obj\Debug\netcoreapp3.1\Ever_Motion_Builder.pdb
