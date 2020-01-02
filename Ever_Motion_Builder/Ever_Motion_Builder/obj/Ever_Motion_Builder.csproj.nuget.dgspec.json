@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\01. EveR연구실\\2019 겨울\\Ever_Motion_Kinect\\Ever_Motion_Builder\\Ever_Motion_Builder\\Ever_Motion_Builder.csproj": {}
+    "C:\\Users\\skyhand\\source\\repos\\Ever_Motion_Kinect\\Ever_Motion_Builder\\Ever_Motion_Builder\\Ever_Motion_Builder.csproj": {}
   },
   "projects": {
-    "D:\\01. EveR연구실\\2019 겨울\\Ever_Motion_Kinect\\Ever_Motion_Builder\\Ever_Motion_Builder\\Ever_Motion_Builder.csproj": {
+    "C:\\Users\\skyhand\\source\\repos\\Ever_Motion_Kinect\\Ever_Motion_Builder\\Ever_Motion_Builder\\Ever_Motion_Builder.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\01. EveR연구실\\2019 겨울\\Ever_Motion_Kinect\\Ever_Motion_Builder\\Ever_Motion_Builder\\Ever_Motion_Builder.csproj",
+        "projectUniqueName": "C:\\Users\\skyhand\\source\\repos\\Ever_Motion_Kinect\\Ever_Motion_Builder\\Ever_Motion_Builder\\Ever_Motion_Builder.csproj",
         "projectName": "Ever_Motion_Builder",
-        "projectPath": "D:\\01. EveR연구실\\2019 겨울\\Ever_Motion_Kinect\\Ever_Motion_Builder\\Ever_Motion_Builder\\Ever_Motion_Builder.csproj",
+        "projectPath": "C:\\Users\\skyhand\\source\\repos\\Ever_Motion_Kinect\\Ever_Motion_Builder\\Ever_Motion_Builder\\Ever_Motion_Builder.csproj",
         "packagesPath": "C:\\Users\\skyhand\\.nuget\\packages\\",
-        "outputPath": "D:\\01. EveR연구실\\2019 겨울\\Ever_Motion_Kinect\\Ever_Motion_Builder\\Ever_Motion_Builder\\obj\\",
+        "outputPath": "C:\\Users\\skyhand\\source\\repos\\Ever_Motion_Kinect\\Ever_Motion_Builder\\Ever_Motion_Builder\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
