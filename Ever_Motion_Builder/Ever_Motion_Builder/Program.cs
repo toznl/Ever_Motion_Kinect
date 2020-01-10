@@ -27,15 +27,15 @@ namespace Ever_Motion_Builder
 
     
 
-            for (int i = 0; i < 140; i += angle_gap) //arm01
+            for (int i = 0; i < 100; i += angle_gap) //arm01
             {
                 _arm01 = i / angle_gap;
                 arm01 = i;
                 Console.WriteLine(i);
 
-                for (int j = 0; j < 165; j += angle_gap2) //arm02
+                for (int j = 0; j < 100; j += angle_gap) //arm02
                 {
-                    _arm02 = j / angle_gap2;
+                    _arm02 = j / angle_gap;
                     arm02 = j;
                     for (int k = -45; k < 50; k += angle_gap) //arm03
                     {
@@ -51,10 +51,10 @@ namespace Ever_Motion_Builder
                             Console.WriteLine(arm01);
 
 
-                            //outputFile = new StreamWriter(@"..\..\..\..\..\" + file_name + ".txt", true);
-                            outputFile = new StreamWriter(@"..\..\..\..\..\total.txt", true);
+                            outputFile = new StreamWriter(@"..\..\..\..\..\" + file_name + ".txt", true);
+                            //outputFile = new StreamWriter(@"..\..\..\..\..\total.txt", true);
 
-                            //outputFile.WriteLine(border_line);
+                            outputFile.WriteLine(border_line);
 
                             outputFile.WriteLine(time_1 + "	" + contents);
                             outputFile.WriteLine(time_2 + "	" + contents);
@@ -63,13 +63,13 @@ namespace Ever_Motion_Builder
                             outputFile.WriteLine(time_5 + "	" + contents);
                             outputFile.WriteLine(time_6 + "	" + contents);
 
-                          
-                            time_1 += 6;
-                            time_2 += 6;
-                            time_3 += 6;
-                            time_4 += 6;
-                            time_5 += 6;
-                            time_6 += 6;
+
+                            //time_1 += 6;
+                            //time_2 += 6;
+                            //time_3 += 6;
+                            //time_4 += 6;
+                            //time_5 += 6;
+                            //time_6 += 6;
 
 
                             //outputFile = new StreamWriter(@"..\..\..\..\..\" + "scene.txt", true);
